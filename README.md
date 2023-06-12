@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigitalKSA / Twitter : _DGTL_ / Discord : Faisal .#2905
+- 👋 Hi, I'm Faisal.
 - 👀 I’m interested in Lua, and GTA NUI (JS NUI, HTML, CSS)
 - 🌱 I’m currently learning SQL, C#, C++
 - 💞️ I’m looking to launch a store
